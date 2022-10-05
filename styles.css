@@ -1,0 +1,14 @@
+div{
+    width:100px;
+    height: 100px;
+    border-radius: 50%;
+    background-color: blue;
+    margin: 0px;
+}
+
+body{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-wrap: wrap;
+}
